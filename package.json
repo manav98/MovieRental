@@ -1,0 +1,23 @@
+{
+  "name": "MovieRental",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manav98/MovieRental.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manav98/MovieRental/issues"
+  },
+  "homepage": "https://github.com/manav98/MovieRental#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
