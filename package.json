@@ -10,6 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/manav98/MovieRental.git"
   },
+  "joi": {
+    "version": "13.1.0",
+    "resolved": "https://registry.npmjs.org/joi/-/joi-13.1.0.tgz",
+    "integrity": "sha512-x6pGmDYI6hwNi3skP6irQqRaJntzeaWmZ4rsnjc/NTlf6P5Gp3Aw/O8REe8oLJ6wPhrzd9K3RW1m3Yz/Hx4Weg==",
+    "requires": {
+      "hoek": "5.x.x",
+      "isemail": "3.x.x",
+      "topo": "3.x.x"
+    }
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -18,6 +28,7 @@
   },
   "homepage": "https://github.com/manav98/MovieRental#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "joi": "^13.1.0"
   }
 }
